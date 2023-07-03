@@ -1,1 +1,0 @@
-# GeeksforGeeks-C-Programming
